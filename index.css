@@ -2,15 +2,5 @@
     display: flex;
     align-items: center;
     gap: 15px;
-    align-content: center;
-    text-align: center;
-}
-
-.buttons button{
-    padding: 5px 10px;
-    background-color: #d74747;
-    border-radius: 5px;
-    border-color: black;
-    color: white;
-    font-size: 20px;
+    flex-direction: column;
 }
